@@ -1,4 +1,4 @@
-# Cyclistic-bike-share-analysis
+# Cyclistic_bike_share_analysis
 
 ##### This is a case study for one of Google's Data Analytics Professional Certificate capstone projects.
 
