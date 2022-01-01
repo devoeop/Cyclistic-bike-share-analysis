@@ -1,6 +1,5 @@
 # Cyclistic_bike_share_analysis
 
-#### This is a case study for one of Google's Data Analytics Professional Certificate capstone projects.
 
 Cyclistic is a fictional bike sharing company based and operating in Chicago. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. Most riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day. Cyclistic is faced with an uncertain future and is no longer able to solely rely on their traditional marketing strategies of raising general awareness and appealing to a variety of needs with flexible price points and diverse product choices. In the interest of company growth, the director of marketing believes that Cyclistic should capitalize on the lucrative profit margins of annual subscribers by marketing to existing casual customers and persuading them to become yearly subscribers. If that strategy is plausible, a successfully executed marketing campaign would result in more sustainable long-term revenue.
 
