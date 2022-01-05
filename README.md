@@ -5,6 +5,6 @@ Cyclistic is a fictional bike sharing company based and operating in Chicago. Cy
 
 As a junior data analyst on Cyclistic's marketing analytics team, I've been tasked with presenting to executives my findings and recommendations once I've thoroughly explored, processed and analyzed any relevant data.
 
-You'll find the written report on my data analysis process in the cyclistic_case_study.ipynb file above.
+You'll find the data analysis process in the cyclistic_case_study.ipynb file above.
 
 My Tableau dashboard: https://public.tableau.com/views/CyclisticBike-shareAnalysis_16406314233060/CyclisticBikeshareAnalysis?:language=enUS&:display_count=n&:origin=viz_share_link
